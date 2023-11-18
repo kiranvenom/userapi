@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "script.js",
 	"scripts": {
-		"jsS": "json-server --watch userData.json --port 5000"
+		"jsS": "json-server --watch userData.json"
 	},
 	"keywords": [],
 	"author": "",
