@@ -1,0 +1,15 @@
+{
+	"name": "input-user",
+	"version": "1.0.0",
+	"description": "",
+	"main": "script.js",
+	"scripts": {
+		"jsS": "json-server --watch userData.json --port 5000"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"json-server": "^0.17.4"
+	}
+}
